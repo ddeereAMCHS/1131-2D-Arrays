@@ -1,6 +1,6 @@
 # 2D Arrays
 
-## Due: Thur 3/2 at 11:59 PM
+## Due: Thur 2/29 at 11:59 PM
 
 - Create a program called `Arrays2D.java`
 - Prompt the user for a filename
